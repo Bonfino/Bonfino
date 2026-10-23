@@ -24,30 +24,48 @@
   「 What I'm Working On 」
 </h3>
 
-<hr/>
-
-<ul>
-  <li>
-    💻 <strong>Full Stack Developer at twow</strong> —
-    Developing and maintaining web applications using
-    PHP, Laravel, JavaScript and WordPress.
-  </li>
-  <li>
-    🧩 <strong>TST Media Management</strong> —
-    Built a custom WordPress plugin to identify and manage
-    unused media across websites with 8,000+ images,
-    featuring batch scanning and reversible cleanup.
-  </li>
-  <li>
-    🛠️ <strong>Web Performance & Optimization</strong> —
-    Improving website performance, accessibility
-    and security across multiple client projects.
-  </li>
-  <li>
-    📚 <strong>Currently Learning</strong> —
-    Exploring ASP.NET Core, C# and Entity Framework Core.
-  </li>
-</ul>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <sub>01 — WORK</sub>
+      <h3>💻 Full Stack Developer</h3>
+      <p>
+        Developing and maintaining full-stack
+        web applications at <strong>twow</strong>,
+        using PHP, Laravel, JavaScript and WordPress.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <sub>02 — FEATURED PROJECT</sub>
+      <h3>🧩 Media Management</h3>
+      <p>
+        Custom WordPress plugin for identifying
+        and managing unused media across websites
+        with <strong>8,000+ images</strong>.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>03 — OPTIMIZATION</sub>
+      <h3>🚀 Performance & Security</h3>
+      <p>
+        Improving website performance,
+        accessibility and security across
+        multiple client projects.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <sub>04 — LEARNING</sub>
+      <h3>📚 Backend Development</h3>
+      <p>
+        Expanding my knowledge of
+        <strong>ASP.NET Core</strong>,
+        C# and Entity Framework Core.
+      </p>
+    </td>
+  </tr>
+</table>
 
 <h3 align="center">
   「 Connect With Me 」
@@ -55,23 +73,14 @@
 
 <hr/>
 
-<ul>
-  <li>
-    🌐 Portfolio:
-    <a href="https://alessiopinto.com">
-      alessiopinto.com
-    </a>
-  </li>
-  <li>
-    💼 LinkedIn:
-    <a href="https://www.linkedin.com/in/alessio-pinto/">
-      Alessio Pinto
-    </a>
-  </li>
-  <li>
-    ✉️ Email:
-    <a href="mailto:alessio.pinto02@gmail.com">
-      alessio.pinto02@gmail.com
-    </a>
-  </li>
-</ul>
+<p align="center">
+  <a href="https://alessiopinto.com">
+    <img src="https://img.shields.io/badge/Portfolio-171717?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/alessio-pinto/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:alessio.pinto02@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
